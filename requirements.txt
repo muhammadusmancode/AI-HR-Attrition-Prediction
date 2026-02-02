@@ -1,0 +1,6 @@
+I am making this file for telling the requirements for thsi project.
+pandas
+numpy
+scikit-learn
+streamlit
+joblib
