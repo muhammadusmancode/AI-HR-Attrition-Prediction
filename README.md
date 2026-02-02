@@ -36,9 +36,6 @@ This system uses machine learning to predict attrition so organizations can impr
 
 ### Step 1: Install Dependencies
 Open a terminal inside the project folder and run:
-
-
-```bash
 python -m pip install -r requirements.txt
 
 ⚠️ Tip: Make sure Python 3.10 or higher is installed. You can use VS Code, PyCharm, or any Python IDE.
@@ -56,7 +53,7 @@ model.pkl ✅
 
 Start the Streamlit app with:
 
-python -m streamlit run app.py
+#### python -m streamlit run app.py
 
 A browser window will open automatically.
 
@@ -86,3 +83,4 @@ All implementation logic was understood and customised by the student.
 ### Muhammad Usman – F2023105003
 
 ### Noman Aslam – F2023105043
+
